@@ -21,8 +21,8 @@ contact: static
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #0e3454
-  primary-rgb: "24,288,156" #"128,179,255"
+  primary: 00B6A2 #0e3454
+  primary-rgb: "0,182,162" #"128,179,255"
   secondary: 0e3454 #FD6E8A
   secondary-dark: 0a243b #A2122F
 
